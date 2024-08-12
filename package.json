@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "firebase": "^10.12.4",
+    "firebase-tools": "^13.14.2",
+    "nodemailer": "^6.9.9",
+    "stripe": "^14.17.0"
+  }
+}
